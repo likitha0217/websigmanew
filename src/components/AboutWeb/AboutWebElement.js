@@ -117,4 +117,7 @@ max-width: 100%;
 vertical-align: middle;
 display: inline-block;
 max-height: 500px;
+@media screen and (max-width:768px){
+  padding-bottom: 20px;
+}
 `
