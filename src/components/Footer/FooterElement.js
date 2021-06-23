@@ -5,7 +5,8 @@ import {Link} from 'react-router-dom'
 
 export const FooterContainer = styled.div`
 background-color: #101522;
-padding: 4rem 0 0 0;
+padding: 3rem 0 0rem 0;
+border-top:1px solid #fff;
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -40,10 +41,14 @@ export const FooterLinkContainer = styled.div`
 width: 100%;
 min-width: 1000px;
 display: flex;
+
+margin-left: 163px;
+
 justify-content: center;
 @media screen and (max-width:768px){
    padding-top: 32px;
    min-width: 400px;
+   margin-left: 30px;
 }
 `   
  export const FooterLinkWrapper = styled.div`

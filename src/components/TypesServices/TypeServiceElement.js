@@ -79,7 +79,7 @@ justify-content: ${({start}) => (start ? 'flex-start' : 'flex-end')};
 
 export const SericeOfferedHeading = styled.div`
 margin-bottom: 24px;
-font-size: 30px;
+font-size: 29px;
 line-height: 1.1;
 font-weight: 600;
 padding-top: 18px;

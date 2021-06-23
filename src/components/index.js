@@ -4,3 +4,7 @@ export {default as Footer} from './Footer/Footer';
 export {default as Services} from './Services/Services';
 export {default as TypesServices} from './TypesServices/TypesServices';
 export {default as CaseStudy} from './CaseStudy/CaseStudy';
+export {default as CapBanner} from './CapBanner/CapBanner';
+export {default as AboutWeb} from './AboutWeb/AboutWeb';
+export {default as AboutChoose} from './AboutChoose/AboutChoose';
+export {default as AboutText} from './AboutText/AboutText';

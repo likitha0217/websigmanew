@@ -54,13 +54,13 @@ window.addEventListener('resize', showButton);
                         </NavLinks>
                     </NavItem>
                     <NavItem>
-                        <NavLinks to='/services'>
-                            Services
+                        <NavLinks to='/About'>
+                        About
                         </NavLinks>
                     </NavItem>
                     <NavItem>
-                        <NavLinks to='/product'>
-                            Products
+                        <NavLinks to='/services'>
+                            Services
                         </NavLinks>
                     </NavItem>
                     <NavItemBtn>

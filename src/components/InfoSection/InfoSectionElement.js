@@ -64,7 +64,7 @@ color: ${({lightText}) => (lightText ? '#f7f8fa' : '#1c2237')};
 `
 
 export const SubTitle = styled.p`
-max-width: 440px;
+max-width: 520px;
 margin-bottom: 35px;
 font-size: 18px;
 line-height: 24px;

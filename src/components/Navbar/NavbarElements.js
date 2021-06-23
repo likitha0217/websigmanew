@@ -55,6 +55,7 @@ display: flex;
 align-items: center;
 list-style: none;
 text-align:center;
+font-family: 'Source Sans Pro', sans-serif;
 @media screen and (max-width:768px){
    display: flex;
    flex-direction: column;
@@ -93,6 +94,7 @@ align-items: center;
 text-decoration: none;
 padding:0.5rem 1rem;
 height: 100%;
+font-family: 'Source Sans Pro', sans-serif;
 
 
 @media screen and (max-width:768px){
