@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import img from '../../images/banner4.png';
+
 
 
 export const AboutTextSec = styled.div`
