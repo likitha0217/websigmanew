@@ -42,13 +42,13 @@ width: 100%;
 min-width: 1000px;
 display: flex;
 
-margin-left: 163px;
+
 
 justify-content: center;
 @media screen and (max-width:768px){
    padding-top: 32px;
    min-width: 400px;
-   margin-left: 30px;
+   
 }
 `   
  export const FooterLinkWrapper = styled.div`
