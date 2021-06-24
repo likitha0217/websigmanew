@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import img from '../../images/banner4.png';
+import img from '../../images/aboutbanner.svg';
 
 
 
@@ -7,6 +7,7 @@ export const AboutWebSec = styled.div`
 color: #fff;
 
 padding:150px 180px;
+background-size: cover;
 background-image: url(${img});
 @media screen and (max-width:768px){
   color: #fff;
