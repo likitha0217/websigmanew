@@ -24,7 +24,7 @@ padding-top:0;
 
 
 @media screen and (max-width:768px){
-  padding-bottom: 65px;
+  padding-bottom: 30px;
 
 }
 `
@@ -34,7 +34,7 @@ padding-top:0;
 padding-bottom:10px;
 
 @media screen and (max-width:768px){
-  padding-bottom: 65px;
+  padding-bottom: 30px;
 
 }
 `
@@ -60,7 +60,8 @@ text-align: center;
 
 color: ${({lightServiceHead}) => (lightServiceHead ? '#a9b3c1' : '#1c2237')};
 @media screen and (max-width:768px){
-    text-align: left;
+    font-size: 25px;
+
 
 }
 
@@ -75,7 +76,7 @@ color: ${({lightSerTiitle}) => (lightSerTiitle ? '#a9b3c1' : '#1c2237')};
 
 margin: 20px auto 15px auto;
 @media screen and (max-width:768px){
-    text-align: left;
+    font-size: 25px;
 
 }
 
@@ -165,4 +166,11 @@ max-width: 100%;
 vertical-align: middle;
 display: inline-block;
 margin: 0 139px;
+   
+@media screen and (max-width:768px){
+    margin: 0 120px;
+   
+
+        
+}
 `

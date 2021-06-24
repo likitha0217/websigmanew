@@ -61,8 +61,8 @@ text-align: center;
 
 color: ${({lightchooseHead}) => (lightchooseHead ? '#a9b3c1' : '#1c2237')};
 @media screen and (max-width:768px){
-    text-align: left;
-
+    
+    font-size: 38px;
 }
 
 `
