@@ -8,3 +8,5 @@ export {default as CapBanner} from './CapBanner/CapBanner';
 export {default as AboutWeb} from './AboutWeb/AboutWeb';
 export {default as AboutChoose} from './AboutChoose/AboutChoose';
 export {default as AboutText} from './AboutText/AboutText';
+export {default as ServiceBanner} from './ServicesBanner/ServiceBanner';
+export {default as ServiceType} from './ServiceType/ServiceType';

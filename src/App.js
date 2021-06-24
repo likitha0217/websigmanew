@@ -6,6 +6,7 @@ import GlobalStyle from './GlobalStyle';
 import Home from './pages/HomePage/Home';
 import ScrollToTop from './components/ScrollToTop';
 import About from './pages/About/About';
+import Service from './pages/Service/Service';
 function App() {
   return (
     <Router>
@@ -15,6 +16,7 @@ function App() {
      <Switch>
        <Route path='/' exact component={Home} />
        <Route path='/About' exact component={About} />
+       <Route path='/Service' exact component={Service} />
 
      </Switch>
       <Footer/>
