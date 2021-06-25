@@ -1,0 +1,28 @@
+input[type="text"] {
+    width: 450px;
+    height: 5vh;
+}
+
+input[type="email"]{
+    width: 450px;
+    height: 5vh;
+}
+
+textarea{
+    width: 450px;
+    height: 20vh;
+}
+
+input[type="tel"]{
+    width: 450px;
+    height: 5vh;
+}
+
+.sub{
+border-radius: 4px;
+background: #4b59f7;
+white-space: nowrap;
+padding: 10px 20px;
+color: #fff;
+font-size: 16px;
+}
