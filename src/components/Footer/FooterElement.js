@@ -73,7 +73,7 @@ justify-content: center;
         margin:0;
         padding:10px;
         width: 100%;
-        max-width: 375px;
+        max-width: 373px;
 }
 `
 export const FooterLinkTitle = styled.h2`
