@@ -23,7 +23,7 @@ const ContactInfo = ({lightBg,alt,img,start}) => {
         <input type="hidden" name="form-name" value="contact-web" /><br/><br/>
      <input type="text" placeholder="First Name" name="name" /><br/><br/>
      <input type="email" placeholder="Email" name="email"/><br/><br/>
-     <input type="tel" placeholder="Phone No" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"/><br/><br/>
+     <input type="tel" placeholder="Phone No" name="phone"/><br/><br/>
      <textarea placeholder="Any Comment" name="message"/><br/><br/>
      <button class="sub" type="submit">Submit</button>
 </form>  

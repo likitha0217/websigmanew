@@ -7,7 +7,7 @@ export const contactObj1 = {
 export const contactObj2 = {
     lightBg:false, 
     
-    img:require('../../images/ser.svg').default,
+    img:require('../../images/contact2.svg').default,
     alt:'Image',
     start: '',
     
