@@ -19,6 +19,7 @@ const ContactInfo = ({lightBg,alt,img,start}) => {
                              <h1>Enquiry Now</h1>
                          <form name="contact-web" 
       method="POST"
+      action="/success/"
     data-netlify="true">
         <input type="hidden" name="form-name" value="contact-web" /><br/><br/>
      <input type="text" placeholder="First Name" name="name" /><br/><br/>
