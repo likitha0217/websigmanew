@@ -39,6 +39,23 @@ export const homeObjService = {
     
    
 };
+export const homeObjTest= {
+    lightBg:true, 
+    lighttesthead:false,
+    lightTestimonialHead:true,
+    lightTestimonailAuthor:false,
+    lightTop:false,
+    buttonLabel:'View More',
+    testHeading:'Really Happy Clientele',
+    testTop:'Testimonails',
+    testimonialHead:'“It was great working with Websigma. Their approach of understanding our requirements and being supportive during our association was a good experience. I wish them the best”',
+    testimonialAuthor:'Dinesh Kotha, Co-founder & CEO, Confirmtkt',
+    img:require('../../images/test2.svg').default,
+    alt:'Image',
+    start: '' 
+    
+   
+};
 
 export const homeObjOffer1 = {
     lightBg:false, 

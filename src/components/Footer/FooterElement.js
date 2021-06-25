@@ -1,16 +1,17 @@
 import styled from "styled-components";
 import {Link} from 'react-router-dom'
-
+import img from '../../images/footer-bg.png'
 
 
 export const FooterContainer = styled.div`
-background-color: #101522;
-padding: 3rem 0 0rem 0;
+//background-color: #101522;
+padding: 5rem 0 0rem 0;
 border-top:1px solid #fff;
 display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
+background-image: url(${img});
 
 `
 export const FooterSubscription = styled.div`
@@ -54,6 +55,7 @@ justify-content: center;
  export const FooterLinkWrapper = styled.div`
   display: flex;
   margin-left: 156px;
+  margin-bottom: 50px;
   @media screen and (max-width:768px){
    flex-direction:column;
    margin-left: 16px;

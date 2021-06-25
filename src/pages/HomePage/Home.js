@@ -1,6 +1,6 @@
 import React from 'react'
-import { CaseStudy, InfoSection, Services, TypesServices } from '../../components'
-import {homeObjOne, homeObjTwo, homeObjThree, homeObjFour, homeObjService, homeObjOffer1, homeObjcase} from './Data'
+import {CaseStudy, InfoSection, Services, Testimonial, TypesServices } from '../../components'
+import {homeObjOne, homeObjTwo, homeObjThree, homeObjService, homeObjOffer1, homeObjTest, homeObjcase} from './Data'
 
 const Home = () => {
     return (
@@ -12,7 +12,8 @@ const Home = () => {
         <TypesServices {...homeObjOffer1} />
         <InfoSection {...homeObjThree}/>
         <CaseStudy {...homeObjcase} />
-        <InfoSection {...homeObjFour}/>
+        <Testimonial {...homeObjTest} />
+       
             
         </>
     )
