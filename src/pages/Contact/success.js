@@ -1,9 +1,10 @@
 import React from 'react'
+import { SuccessText } from '../../components'
 
 const success = () => {
     return (
         <div>
-            <p>Thank You for the form submission</p>
+           <SuccessText/>
         </div>
     )
 }
