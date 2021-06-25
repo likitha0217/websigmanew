@@ -65,10 +65,10 @@ window.addEventListener('resize', showButton);
                     </NavItem>
                     <NavItemBtn>
                         {button ? (
-                            <NavBtnLink to="/contact">
+                            <NavBtnLink to="/Contact">
                                 <Button primary>Contact</Button>
                                 </NavBtnLink>
-                        ):( <NavBtnLink to="/contact">
+                        ):( <NavBtnLink to="/Contact">
                         <Button fontBig primary>Contact</Button>
                         </NavBtnLink>)}
 

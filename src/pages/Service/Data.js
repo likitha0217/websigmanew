@@ -4,7 +4,21 @@ export const serObj1 = {
     
     
 };
-
+export const serObj3 = {
+    lightBg:false, 
+    lightServiceTop:false,
+    lightServiceHead:true,
+    lightServiceDesc:true,
+    serviceTextTop:'Services',
+  
+    serviceTextHead:'Get best plans for more Power',
+    serviceTextDesc:'We work systematically to integrate corporate responsibility in our core business and make our expertise available for the benefit of the societies where we operate.Weve been supporting WordPress since the beginning.Perfect for large sites or agencies managing multiple clients. Our easy-to-use control panel and API let you spend',
+    
+    img:require('../../images/ser.svg').default,
+    alt:'Image',
+    start: '',
+    
+};
 
 
 export const serObj2 = {

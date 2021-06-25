@@ -10,3 +10,6 @@ export {default as AboutChoose} from './AboutChoose/AboutChoose';
 export {default as AboutText} from './AboutText/AboutText';
 export {default as ServiceBanner} from './ServicesBanner/ServiceBanner';
 export {default as ServiceType} from './ServiceType/ServiceType';
+export {default as ServiceText} from './ServiceText/ServiceText';
+export {default as ContactBanner} from './ContactBanner/ContactBanner'
+export {default as ContactInfo} from './ContactInfo/ContactInfo'
