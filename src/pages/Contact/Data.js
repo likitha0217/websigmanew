@@ -1,7 +1,7 @@
 export const contactObj1 = {
     
     lightbannerText:false,
-    contactBannerText:'Contact Us',
+    contactBannerText:'CONTACT US',
 
 }
 export const contactObj2 = {

@@ -31,10 +31,10 @@ padding-bottom:60px;
 
 export const ContactBannerText = styled.h1`
 
-font-size: 30px;
-line-height: 35px;
-letter-spacing: 1.4px;
-margin-bottom: 16px;
+font-size: 40px;
+    line-height: 45px;
+    letter-spacing: 1.4px;
+    margin-bottom: 16px;
 
 color: ${({lightbannerText}) => (lightbannerText ? '#a9b3c1' : '#4b59f7')};
 
