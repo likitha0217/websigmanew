@@ -23,7 +23,7 @@ export const homeObjTwo = {
     buttonLabel:'Get Started',
     topLine:'Why WebSigma',
     heading:'What makes us the one of the reliable web development company',
-    description:'We believe in a simple mantra that client wins we win because success should be celebrated mutually. In all these years of digital transformation our major success has been our technical solutions that we have provided to our clients. From taking an European brand to remote corners of India and placing Indian handmade Jewellery in global market and providing employee sentiment measurement system to a top retail brand we have covered all the possibilities of customer journey and converted it into a digital process. Our transparent and ethical culture makes us the trusted vendor ',
+    description:'We believe in a simple mantra that client wins we win because success should be celebrated mutually. In all these years of digital transformation our major success has been our technical solutions that we have provided to our clients...',
     primary:false,
     img:require('../../images/svg3.svg').default,
     alt:'Image',

@@ -53,8 +53,10 @@ justify-content: center;
 `   
  export const FooterLinkWrapper = styled.div`
   display: flex;
+  margin-left: 156px;
   @media screen and (max-width:768px){
    flex-direction:column;
+   margin-left: 16px;
 }
 
  `
@@ -101,7 +103,7 @@ display: flex;
 justify-content:space-between;
 align-items: center;
 width: 100%;
-max-width: 1000px;
+max-width: 1132px;
 margin:20px auto 0 auto;
 
 @media screen and (max-width:768px){
