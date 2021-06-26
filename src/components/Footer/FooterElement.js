@@ -12,6 +12,10 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 background-image: url(${img});
+@media screen and (max-width:768px){
+background-repeat: no-repeat;
+    background-size: cover;
+}
 
 `
 export const FooterSubscription = styled.div`
