@@ -68,7 +68,7 @@ justify-content: center;
   align-items: flex-start;
   margin:16px;
   text-align:left;
-  width:300px;
+  width:264px;
   box-sizing: border-box;
   color: #fff;
   @media screen and (max-width:768px){
