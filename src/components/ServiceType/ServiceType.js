@@ -41,7 +41,7 @@ const ServiceType = ({lightBg,lightServiceTop, serviceTop, lightServiceHead, ser
                             <ChooseSerTitle lightSerTiitle={lightSerTiitle}>{chooseSerle1}</ChooseSerTitle>
                             <Chooseser lightSer={lightSer}>{chooseSer1}</Chooseser>
                             <ServiceButton>
-                                            <Link to='/contact'>
+                                            <Link to='/Seo'>
                                                  <Button primary={primary}>
                                              {buttonLabel}
                                              </Button>
@@ -63,7 +63,7 @@ const ServiceType = ({lightBg,lightServiceTop, serviceTop, lightServiceHead, ser
                                                              <ChooseSerTitle lightSerTiitle={lightSerTiitle}>{chooseSerle2}</ChooseSerTitle>
                                                              <Chooseser lightSer={lightSer}>{chooseSer2}</Chooseser>
                                                              <ServiceButton>
-                                                                             <Link to='/contact'>
+                                                                             <Link to='/Website'>
                                                                                   <Button primary={primary}>
                                                                               {buttonLabel}
                                                                               </Button>
@@ -85,7 +85,7 @@ const ServiceType = ({lightBg,lightServiceTop, serviceTop, lightServiceHead, ser
                                                              <ChooseSerTitle lightSerTiitle={lightSerTiitle}>{chooseSerle3}</ChooseSerTitle>
                                                              <Chooseser lightSer={lightSer}>{chooseSer3}</Chooseser>
                                                              <ServiceButton>
-                                                                             <Link to='/contact'>
+                                                                             <Link to='/App'>
                                                                                   <Button primary={primary}>
                                                                               {buttonLabel}
                                                                               </Button>
