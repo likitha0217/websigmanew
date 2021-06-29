@@ -2,10 +2,10 @@ import styled from "styled-components";
 
 export const WebServicesSec= styled.div`
 color: #fff;
-padding:70px 130px 10px;
+padding:70px 0px 10px;
 background: ${({lightBg}) => (lightBg ? '#fff' : '#101522')};
 @media screen and (max-width:768px){
-  padding:70px 10px 10px;
+
 
 }
 `
