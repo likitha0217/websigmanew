@@ -37,8 +37,10 @@ background: #eae8e8;
 
 export const AppProcessTitle = styled.h1`
 
-font-size:15px;
+font-size:14px;
 line-height:20px;
+margin-left: 50px;
+padding-top: 10px;
 letter-spacing: 1.4px;
 margin-bottom: 16px;
 text-align: center;
@@ -93,7 +95,7 @@ export const AppWhole = styled.div`
   margin-left:16px;
   margin-right: 10px;
   text-align:left;
-  width:350px;
+  width:230px;
   box-sizing: border-box;
   color: #fff;
   
@@ -112,7 +114,7 @@ export const AppWhole = styled.div`
 `
 
 export const ImgWrapper = styled.div`
-max-width: 555px;
+max-width: 100px;
 display: flex;
 padding-top: 30px;
 justify-content: ${({start}) => (start ? 'flex-start' : 'flex-end')};
