@@ -124,7 +124,8 @@ margin:20px auto 0 auto;
 export const WebsiteRight = styled.div`
 color: #fff;
 margin-bottom: 16px;
-
+margin-left: 32px;
+    margin-right: 63px;
 `
 
 export const SocialIcons = styled.div`

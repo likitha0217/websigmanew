@@ -11,6 +11,7 @@ import Contact from './pages/Contact/Contact';
 import success from './pages/Contact/success';
 import Seo from './pages/Seo/Seo';
 import Mobile from './pages/Mobile/Mobile';
+import Website from './pages/Website/Website'
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
        <Route path='/success' exact component={success}/>
        <Route path='/Seo' exact component={Seo}/>
        <Route path="/Mobile" exact component={Mobile}/>
+       <Route path='/Website' exact component={Website}/>
        
      </Switch>
       <Footer/>
