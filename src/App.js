@@ -10,6 +10,8 @@ import Service from './pages/Service/Service';
 import Contact from './pages/Contact/Contact';
 import success from './pages/Contact/success';
 import Seo from './pages/Seo/Seo';
+import Mobile from './pages/Mobile/Mobile';
+
 function App() {
   return (
     <Router>
@@ -23,6 +25,8 @@ function App() {
        <Route path='/Contact' exact component={Contact} />
        <Route path='/success' exact component={success}/>
        <Route path='/Seo' exact component={Seo}/>
+       <Route path="/Mobile" exact component={Mobile}/>
+       
      </Switch>
       <Footer/>
   

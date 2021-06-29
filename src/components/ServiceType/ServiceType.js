@@ -85,7 +85,7 @@ const ServiceType = ({lightBg,lightServiceTop, serviceTop, lightServiceHead, ser
                                                              <ChooseSerTitle lightSerTiitle={lightSerTiitle}>{chooseSerle3}</ChooseSerTitle>
                                                              <Chooseser lightSer={lightSer}>{chooseSer3}</Chooseser>
                                                              <ServiceButton>
-                                                                             <Link to='/App'>
+                                                                             <Link to='/Mobile'>
                                                                                   <Button primary={primary}>
                                                                               {buttonLabel}
                                                                               </Button>
