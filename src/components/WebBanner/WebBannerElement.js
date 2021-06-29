@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import img from '../../images/appban.jpg';
+import img from '../../images/webbanners.jpg';
 
 export const WebBannerSec = styled.div`
 color: #fff;
@@ -17,7 +17,7 @@ background-image: url(${img});
 export const WebBannerTextSec = styled.div`
 color: #fff;
 
-padding:70px 180px 0px;
+padding:70px 0px 0px;
 background-size: cover;
 background: ${({lightBg}) => (lightBg ? '#fff' : '#101522')};
 @media screen and (max-width:768px){
