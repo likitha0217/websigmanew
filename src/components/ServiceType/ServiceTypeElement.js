@@ -111,12 +111,14 @@ margin-bottom: 5px;
 padding-right: 15px;
 padding-left: 15px;
 flex:1;
-max-width: 32%;
-flex-basis:30%;
-margin-right: 10px;
-margin-bottom: 90px;
-border-radius: 7px;
-box-shadow: 1px 1px 8px 1px #000;
+max-width: 30%;
+   
+    flex-basis: 30%;
+    margin-right: 10px;
+    margin-bottom: 90px;
+    border-radius: 7px;
+    box-shadow: 1px 1px 8px 1px #000;
+    margin-left: 31px;
 
 @media screen and (max-width:768px){
     max-width: 100%;
