@@ -58,7 +58,7 @@ justify-content: center;
 `   
  export const FooterLinkWrapper = styled.div`
   display: flex;
-  margin-left: 156px;
+
   margin-bottom: 50px;
   @media screen and (max-width:768px){
    flex-direction:column;

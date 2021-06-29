@@ -25,8 +25,8 @@ const Footer = () => {
                 <FooterLinkWrapper>
                 <FooterLinkItems>
                     <FooterLinkTitle>Websigma</FooterLinkTitle>
-                    Lorem Ipsum has been the industrys standard dummy text
-                    Lorem Ipsum has been the industrys standard dummy text
+                    
+We love to sit and ideate with young founders and entrepreneurs who come with lot of dreams and ambitions which inspires us to provide best services
 
                     </FooterLinkItems>
                     <FooterLinkItems>
@@ -44,11 +44,11 @@ const Footer = () => {
                      <FooterLink to='/'>Contact</FooterLink>
                     </FooterLinkItems>
                     <FooterLinkItems>
-                    <FooterLinkTitle>Follow Us</FooterLinkTitle>
-                     <FooterLink to='/'>About</FooterLink>
-                     <FooterLink to='/'>Services</FooterLink>
-                     <FooterLink to='/'>Product</FooterLink>
-                     <FooterLink to='/'>Contact</FooterLink>
+                    <FooterLinkTitle>Address</FooterLinkTitle>
+                    Krishna Krupa,<br/>
+1032,3rd Floor13th Cross road,<br/>
+BSK 2nd Stage,Bangalore,<br/>
+Karnataka - 560070
                     </FooterLinkItems>
 
                 </FooterLinkWrapper>

@@ -70,7 +70,7 @@ color: ${({lightServiceHead}) => (lightServiceHead ? '#a9b3c1' : '#1c2237')};
 export const ChooseSerTitle = styled.p`
 max-width: 600px;
 
-font-size: 30px;
+font-size: 29px;
 line-height: 35px;
 color: ${({lightSerTiitle}) => (lightSerTiitle ? '#a9b3c1' : '#1c2237')};
 
@@ -135,7 +135,7 @@ export const ServiceWhole = styled.div`
   margin-left:16px;
   margin-right: 10px;
   text-align:left;
-  width:350px;
+  width:330px;
   box-sizing: border-box;
   color: #fff;
   

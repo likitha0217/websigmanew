@@ -6,7 +6,7 @@ export const homeObjOne = {
     lightTextDesc:true,
     buttonLabel:'Get Started',
     topLine:'Marketing Agency',
-    heading:'Lorem Ipsum has been the industrys standard dummy text',
+    heading:'Best Marketing Agency Service Company Online Today!',
     description:'Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries ',
     primary:true,
     img:require('../../images/svg2.svg').default,
@@ -35,7 +35,7 @@ export const homeObjService = {
     lightSerLine:true,
     lightSerHead:true,
     sertopLine:'Why Choose Us',
-    serHeading:'We Offer a Full Range of Digital Marketing Services!'
+    serHeading:'We Do Awesome Services For Our Clients!'
     
    
 };
