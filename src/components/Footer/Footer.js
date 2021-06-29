@@ -57,7 +57,7 @@ const Footer = () => {
                 <SocialMediaWrapper>
                     
                     <WebsiteRight>
-                    © 2021 Websigma Technology limited . All rights reserved
+                    © 2021 Websigma. All rights reserved
                     </WebsiteRight>
                     <SocialIcons>
                         <SocialIconLinks href="/" target="_blank" arial-label="Facebook">
