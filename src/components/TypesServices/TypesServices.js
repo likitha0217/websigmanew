@@ -29,7 +29,7 @@ const TypeServiceElement = ({lightBg, lightOfferedHead, lightOfferedDesc ,img , 
                                     <SericeOfferedHeading lightOfferedHead={lightOfferedHead}>{serviceOffHeading}</SericeOfferedHeading>
                                     <ServiceOfferedDesc lightOfferedDesc={lightOfferedDesc}>{serOffDescription}</ServiceOfferedDesc>
                                     <ServiceButton>
-                                            <Link to='/contact'>
+                                            <Link to='/Seo'>
                                                  <Button primary={primary}>
                                              {buttonLabel}
                                              </Button>
@@ -49,7 +49,7 @@ const TypeServiceElement = ({lightBg, lightOfferedHead, lightOfferedDesc ,img , 
                                     <SericeOfferedHeading lightOfferedHead={lightOfferedHead}>{serviceOffHeading2}</SericeOfferedHeading>
                                     <ServiceOfferedDesc lightOfferedDesc={lightOfferedDesc}>{serOffDescription2}</ServiceOfferedDesc>
                                     <ServiceButton>
-                                            <Link to='/contact'>
+                                            <Link to='/Website'>
                                                  <Button primary={primary}>
                                              {buttonLabel}
                                              </Button>
@@ -70,7 +70,7 @@ const TypeServiceElement = ({lightBg, lightOfferedHead, lightOfferedDesc ,img , 
                                     <SericeOfferedHeading lightOfferedHead={lightOfferedHead}>{serviceOffHeading3}</SericeOfferedHeading>
                                     <ServiceOfferedDesc lightOfferedDesc={lightOfferedDesc}>{serOffDescription3}</ServiceOfferedDesc>
                                     <ServiceButton>
-                                            <Link to='/contact'>
+                                            <Link to='/Mobile'>
                                                  <Button primary={primary}>
                                              {buttonLabel}
                                              </Button>
